@@ -1,0 +1,17 @@
+{
+	"DBServerNames": ["1824-W08\\STARS","3082-w08\\DWR","PRINY-IPSQLVM01","PRINY-RELSQL05","1930-w08\\EES","3081-w08","1824-w08"],	
+	
+	"StarsInitialDB": "STARS",
+	"DWRInitialDB": "ReportingConfig",
+	"RelInitialDB": "EDDS",
+	"eCapInitialDB": "Ecap_Config2",
+	"EESInitialDB": "master",
+	"RevoInitialDB": "master",
+	"ReveInitialDB": "master",
+
+	"LongRunThresholdHours": 5,
+	
+	"emailSender": "gpatil@rvminc.com",
+	"emailTo": "gpatil@rvminc.com"
+
+}
